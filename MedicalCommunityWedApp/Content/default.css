@@ -1,0 +1,71 @@
+﻿body{
+    background-color: #525252;
+}
+.centered-form{
+	margin-top: 60px;
+}
+#login {
+    padding-top: 50px;
+}
+#login .form-wrap {
+    width: 40%;
+    margin: 0 auto;
+}
+
+.custom_hyperlink {
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    background: #23527c;
+    padding: 15px 20px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    border-radius: 3px;
+}
+
+    .custom_hyperlink:hover {
+        color: #fff;
+        text-decoration: none;
+    }
+.form-wrap h3{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    padding: 30px 0px;
+}
+
+.form-control {
+    height: 40px;
+}
+
+.custom_button_style {
+    margin-top: 50px;
+}
+
+.custom_label{
+    color: aliceblue;
+    letter-spacing: 2px;
+    font-family: trebuchet ms;
+    font-weight: 700;
+    font-size: 17px;
+}
+
+.btn-block{
+    padding: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.custom_button {
+    padding: 10px 20px;
+}
+
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus {
+    background-color: #525252;
+}
+
+a {
+    color: #fff;
+    
+}

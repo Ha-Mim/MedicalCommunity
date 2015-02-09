@@ -1,0 +1,56 @@
+F:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+F:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+F:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+F:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+F:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+F:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+F:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+F:\New folder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+D:\asp.net\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+F:\hyder\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+D:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+D:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+D:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+D:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+D:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+D:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+D:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+C:\Users\Amir\Downloads\MedicalCommunityApp\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+H:\aspPractice\february 2015\Project\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
+E:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.dll
+E:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DLL.pdb
+E:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.dll
+E:\MedicalCommunityApp\MedicalCommunity.DLL\bin\Debug\MedicalCommunity.DAO.pdb
+E:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DAL.csprojResolveAssemblyReference.cache
+E:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.dll
+E:\MedicalCommunityApp\MedicalCommunity.DLL\obj\Debug\MedicalCommunity.DLL.pdb
