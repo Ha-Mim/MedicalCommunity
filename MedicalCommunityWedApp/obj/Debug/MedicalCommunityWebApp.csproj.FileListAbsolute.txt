@@ -61,3 +61,17 @@ E:\MedicalCommunityApp\MedicalCommunityWedApp\bin\MedicalCommunity.DLL.pdb
 E:\MedicalCommunityApp\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWebApp.csprojResolveAssemblyReference.cache
 E:\MedicalCommunityApp\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWedApp.dll
 E:\MedicalCommunityApp\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWedApp.pdb
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunityWedApp.dll.config
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunityWedApp.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunityWedApp.pdb
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\itextsharp.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\itextsharp.pdfa.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.BLL.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.DAO.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.DLL.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.BLL.pdb
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.DAO.pdb
+F:\MedicalCommunity\MedicalCommunityWedApp\bin\MedicalCommunity.DLL.pdb
+F:\MedicalCommunity\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWebApp.csprojResolveAssemblyReference.cache
+F:\MedicalCommunity\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWedApp.dll
+F:\MedicalCommunity\MedicalCommunityWedApp\obj\Debug\MedicalCommunityWedApp.pdb

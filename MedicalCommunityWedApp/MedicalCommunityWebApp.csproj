@@ -81,6 +81,10 @@
     <Content Include="HeadOffice\NewCenterCreation.aspx" />
     <Content Include="HeadOffice\SendMedicine.aspx" />
     <Content Include="HeadOffice\SetupMedicine.aspx" />
+    <Content Include="Image\download.jpg" />
+    <Content Include="Image\file.png" />
+    <Content Include="Image\hand.jpeg" />
+    <Content Include="Image\images.jpg" />
     <Content Include="Menu.aspx" />
     <Content Include="Scripts\angular-animate.js" />
     <Content Include="Scripts\angular-animate.min.js" />
@@ -859,6 +863,7 @@
     <Content Include="Scripts\jquery-2.1.3.js" />
     <Content Include="Scripts\jquery-2.1.3.min.js" />
     <Content Include="Scripts\npm.js" />
+    <Content Include="Scripts\slideShow.js" />
     <Content Include="ShowHistory\ShowHistory.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>

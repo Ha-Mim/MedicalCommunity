@@ -33,8 +33,22 @@
                    </div>
                 </div>
             </div>
+      </div>
+         <div class="container" align="center">            
+   <div class="row">
+         
+     <div class="col-xs-12" id="slideShowImages">
+   
+    <img src="Image/file.png" alt="Slide 3" />   
+    <img src="Image/hand.jpeg" alt="Slide 4"  /> 
+   
+      </div>
         </div>
+            </div>
     </section>
-    
+    <script src="Scripts/jquery-2.1.3.js"></script>
+    <script src="Scripts/bootstrap.js"></script>
+    <script src="Scripts/slideShow.js"></script>
+  
 </body>
 </html>
